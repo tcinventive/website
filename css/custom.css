@@ -1,0 +1,35 @@
+/** tci Custom CSS **/
+
+#skills {
+  border-left: solid #29B473;
+}
+
+#skills h4 {
+  color: #29B473;
+}
+
+#aboutme {
+  border-left: solid #F6921E;
+}
+
+#aboutme h4 {
+  color: #F6921E;
+}
+
+#knowit h3 {
+color: #69617C;
+}
+
+.tci-Logo {
+  max-width: 150px;
+}
+
+.tci-Signature {
+  max-width: 27%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tci-Footer {
+  max-width: 100px;
+}
